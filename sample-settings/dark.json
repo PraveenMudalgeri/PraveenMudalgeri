@@ -1,0 +1,8 @@
+﻿{
+  "type": "normal",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#c9d1d9",
+  "strongColor":   "#58a6ff",
+  "weakColor":     "#30363d",
+  "animate":       true
+}
