@@ -25,11 +25,21 @@ I'm a student with a deep interest in technology—especially where it meets des
 
 ---
 
-### 🛠️ Tech I Work With
+## 🔧 🔨 Tech I Work With
+<br>
 
-- **Languages**: Python, C++, JavaScript, HTML, CSS  
-- **Frameworks**: React, Bootstrap  
-- **Tools**: Git, GitHub, Canva
+<p align="center" margin="100px"> 
+<code><img height="90" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"></code>
+<code><img height="90" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"></code>
+<code><img height="90" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"></code>
+<code><img height="90" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"></code>
+<code><img height="90" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"></code>
+<code><img height="90" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"></code>
+<code><img height="90" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"></code>
+<code><img height="90" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif"></code>
+</p>
+
+<br>
 
 ---
 
