@@ -1,8 +1,8 @@
-name: 🗺️ 3-D Contributions (Dark Animated)
+name: 3-D Contribution Graph (Dark Animated)
 
 on:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "0 18 * * *"       # runs every day at 18:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Dark-Mode Animated 3D Graph
+      - name: Generate Dark Animated 3D Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
