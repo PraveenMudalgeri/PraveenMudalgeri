@@ -1,0 +1,22 @@
+name: 🗺️ 3-D Contributions
+on:
+  schedule:
+    - cron: '0 18 * * *'      # daily, adjust to taste
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@v0.7.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # or PAT
+          USERNAME:      ${{ github.repository_owner }}
+      - run: |
+          git add -A .
+          git config user.email github-actions@github.com
+          git config user.name  github-actions
+          git commit -m "feat: update 3-D graph" || exit 0
+          git push
