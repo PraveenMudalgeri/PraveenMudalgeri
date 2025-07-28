@@ -15,9 +15,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    USERNAME: ${{ github.repository_owner }}
+    SETTING_JSON: |
+      {
+        "type": "normal",
+        "backgroundColor": "#0d1117",
+        "foregroundColor": "#ffffff",
+        "strongColor": "#ff6b6b",
+        "weakColor": "#4c566a"
+      }
       - name: Commit & Push
         run: |
           git config user.name github-actions
@@ -26,3 +34,4 @@ jobs:
           if git commit -m "generated"; then
             git push
           fi
+
