@@ -47,6 +47,14 @@ I enjoy writing about tech, learning, and the beginner experience. Here are a fe
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg?palette=github-dark" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="GitHub contribution Snake game" src="dist/github-snake.svg" />
+</picture>
+
+---
+
 ### 📈 GitHub Overview
 
 <p align="center">
