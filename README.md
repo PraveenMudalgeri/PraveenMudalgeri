@@ -58,39 +58,9 @@ I enjoy writing about tech, learning, and the beginner experience. Here are a fe
 <!-- 3-D Contribution Graph Variants -->
 <p align="center">
 
-  <!-- Static default (green) -->
-  <details>
-    <summary>Static (green)</summary>
-    <img src="./profile-3d-contrib/profile-green.svg" alt="3D contribution graph (green static)" />
-  </details>
-
-  <!-- Animated default (green) -->
-  <details>
-    <summary>Animated (green)</summary>
-    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph (green animated)" />
-  </details>
-
-  <!-- Static red -->
-  <details>
-    <summary>Static (red)</summary>
-    <img src="./profile-3d-contrib/profile-red.svg" alt="3D contribution graph (red static)" />
-  </details>
-
-  <!-- Animated red -->
-  <details>
-    <summary>Animated (red)</summary>
-    <img src="./profile-3d-contrib/profile-red-animate.svg" alt="3D contribution graph (red animated)" />
-  </details>
-
-  <!-- Static dark-mode -->
-  <details>
-    <summary>Static (dark-mode)</summary>
-    <img src="./profile-3d-contrib/profile-dark.svg" alt="3D contribution graph (dark static)" />
-  </details>
-
   <!-- Animated dark-mode -->
   <details>
-    <summary>Animated (dark-mode)</summary>
+    <summary>😎 Wanna see my Contributions in 3D (dark-mode)</summary>
     <img src="./profile-3d-contrib/profile-dark-animate.svg" alt="3D contribution graph (dark animated)" />
   </details>
 
