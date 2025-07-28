@@ -55,8 +55,9 @@ I enjoy writing about tech, learning, and the beginner experience. Here are a fe
 
 ---
 
+<!-- 3-D Contribution Graph -->
 <p align="center">
-  <img src="profile-3d-contrib/2025.png" alt="3D contribution graph" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
 </p>
 
 ---
