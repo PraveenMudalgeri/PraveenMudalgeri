@@ -2,7 +2,7 @@ name: 3-D Contribution Graph (Dark Animated)
 
 on:
   schedule:
-    - cron: "0 18 * * *"       # runs every day at 18:00 UTC
+    - cron: "0 18 * * *"       # Runs daily at 18:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -12,9 +12,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out repository
+        uses: actions/checkout@v4
 
-      - name: Generate Dark Animated 3D Graph
+      - name: Prepare output directory
+        run: mkdir -p profile-3d-contrib
+
+      - name: Generate Dark-Mode Animated 3D Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -33,6 +37,6 @@ jobs:
         run: |
           git config user.name  "github-actions"
           git config user.email "github-actions@github.com"
-          git add profile-3d-contrib/profile-dark-animate.svg
+          git add profile-3d-contrib/*.svg
           git commit -m "feat: add dark animated 3D graph" || exit 0
           git push
