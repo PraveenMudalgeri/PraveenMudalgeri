@@ -55,6 +55,12 @@ I enjoy writing about tech, learning, and the beginner experience. Here are a fe
 
 ---
 
+<p align="center">
+  <img src="profile-3d-contrib/2025.png" alt="3D contribution graph" />
+</p>
+
+---
+
 ### 📈 GitHub Overview
 
 <p align="center">
