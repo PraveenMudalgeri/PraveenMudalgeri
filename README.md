@@ -55,16 +55,16 @@ I enjoy writing about tech, learning, and the beginner experience. Here are a fe
 
 ---
 
-<!-- 3-D Contribution Graph Variants -->
 <p align="center">
 
-  <!-- Animated dark-mode -->
+  <!-- Animated default (green) -->
   <details>
-    <summary>😎 Wanna see my Contributions in 3D (dark-mode)</summary>
-    <img src="./profile-3d-contrib/profile-dark-animate.svg" alt="3D contribution graph (dark animated)" />
+    <summary>😎 See my contributions in 3D</summary>
+    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph (green animated)" />
   </details>
 
 </p>
+
 
 ---
 
