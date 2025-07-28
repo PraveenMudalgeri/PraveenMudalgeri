@@ -37,10 +37,11 @@ I'm a student with a deep interest in technology—especially where it meets des
 
 I enjoy writing about tech, learning, and the beginner experience. Here are a few of my recent posts:
 
-- [Beginner Guide for Contributing Open Source (Step-by-Step)](https://medium.com/@praveenmudalgeri05)
-- [Kick-Start Your Coding Projects: Why Setting Up a Personal Development Environment Matters](https://medium.com/@praveenmudalgeri05)
-- [Demystifying Computer Core Concepts: What Most Beginners Overlook](https://medium.com/@praveenmudalgeri05)
-- [From Curiosity to Innovation: My First Experience with Sarvam AI](https://medium.com/@praveenmudalgeri05)
+- [My First Open Source Contribution](https://medium.com/@praveenmudalgeri05/my-first-open-source-contribution-9b316b86d1a5)
+- [Beginner Guide for Contributing Open Source (Step-by-Step)](https://medium.com/@praveenmudalgeri05/beginner-guide-for-contributing-open-source-step-by-step-e217dd77f991)
+- [Kick-Start Your Coding Projects: Why Setting Up a Personal Development Environment Matters]([https://medium.com/@praveenmudalgeri05](https://medium.com/@praveenmudalgeri05/kick-start-your-coding-projects-why-setting-up-a-personal-development-environment-matters-491271365dae))
+- [Demystifying Computer Core Concepts: What Most Beginners Overlook](https://medium.com/@praveenmudalgeri05/demystifying-computer-core-concepts-what-most-beginners-overlook-02e4eeece766)
+- [From Curiosity to Innovation: My First Experience with Sarvam AI](https://medium.com/@praveenmudalgeri05/from-curiosity-to-innovation-my-first-experience-with-sarvam-ai-72842c41120a)
 
 📖 Read more on [**Medium**](https://medium.com/@praveenmudalgeri05)
 
