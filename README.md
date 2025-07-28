@@ -12,15 +12,14 @@ I'm a student with a deep interest in technology—especially where it meets des
 
 ---
 
-### 🌐 Connect with Me
-
 <p align="left">
-  <a href="https://instagram.com/codefitness.py" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/praveen-m-71816b2a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://youtube.com/@indianpero" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://pinterest.com/VeensAdds" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
-  <a href="mailto:veensadds@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://medium.com/@praveenmudalgeri05" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+  <h3 align="left">▶ Connect with me:</h3>
+<p align="left">
+  <a href="https://youtube.com/@indianpero" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="codebucks" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/praveen-m-71816b2a1/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="CodeBucks" height="30" width="40" /></a>
+  <a href="https://instagram.com/just.praveen11" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
+<a href="https://x.com/mudalspace" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
+
 </p>
 
 ---
@@ -29,14 +28,14 @@ I'm a student with a deep interest in technology—especially where it meets des
 <br>
 
 <p align="center" margin="100px"> 
-<code><img height="90" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"></code>
-<code><img height="90" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"></code>
-<code><img height="90" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"></code>
-<code><img height="90" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"></code>
-<code><img height="90" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"></code>
-<code><img height="90" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"></code>
-<code><img height="90" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"></code>
-<code><img height="90" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif"></code>
+<code><img height="70" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"></code>
+<code><img height="70" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"></code>
+<code><img height="70" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"></code>
+<code><img height="70" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"></code>
+<code><img height="70" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"></code>
+<code><img height="70" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"></code>
+<code><img height="70" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"></code>
+<code><img height="70" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif"></code>
 </p>
 
 <br>
