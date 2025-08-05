@@ -1,8 +1,19 @@
-<h1 align="center" style="font-size: 2.5rem;">👋 Hi there, I'm <span style="color:#4FC3F7;">Praveen Mudalgeri</span></h1>
-
-<p align="center" style="font-size: 1.2rem;">
-  Web Developer | Python Enthusiast | Tech Blogger
-</p>
+<div align="center">
+  
+  <h1 align="center" style="font-size: 2.5rem;">👋 Hi there, I'm <span style="color:#4FC3F7;">Praveen Mudalgeri</span></h1>
+  <h4 align="center"> Web Developer | Python Enthusiast | Tech Blogger</h4>
+  
+  <a href="https://github.com/PraveenMudalgeri">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6D3AEE&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Frontend+Developer;Tech+Explorer;Designer;Lifelong+Learner;Passionate+Problem+Solver;Always+Building+Something+New!" alt="Typing SVG"/>
+  </a>
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenmudalgeri05@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-m-71816b2a1)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PraveenMudalgeri)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/just.praveen11)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mudalspace)
+  
+</div>
 
 ---
 
@@ -12,31 +23,79 @@ I'm a student with a deep interest in technology—especially where it meets des
 
 ---
 
-<p align="left">
-  <h3 align="left">▶ Connect with me:</h3>
-<p align="left">
-  <a href="https://youtube.com/@indianpero" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="codebucks" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/praveen-m-71816b2a1/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="CodeBucks" height="30" width="40" /></a>
-  <a href="https://instagram.com/just.praveen11" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
-<a href="https://x.com/mudalspace" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
-
-</p>
-
----
-
 ## 🔧 🔨 Tech I Work With
 <br>
 
-<p align="center" margin="100px"> 
-<code><img height="70" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"></code>
-<code><img height="70" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"></code>
-<code><img height="70" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"></code>
-<code><img height="70" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"></code>
-<code><img height="70" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"></code>
-<code><img height="70" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"></code>
-<code><img height="70" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"></code>
-<code><img height="70" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif"></code>
-</p>
+<div align="center">
+  <h3>🔥 Core Technologies</h3>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" width="65" height="65" />
+      <br>C
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3>🌐 Web Development</h3>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="HTML" width="65" height="65" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="CSS" width="65" height="65" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3>🗄️ Database & Tools</h3>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="65" height="65" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Linux" width="65" height="65" />
+      <br>Kuberbetes
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -82,6 +141,9 @@ I enjoy writing about tech, learning, and the beginner experience. Here are a fe
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PraveenMudalgeri&show_icons=true&hide_border=true&theme=transparent" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenMudalgeri&hide_border=true&theme=transparent" width="48%" />
+  <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraveenMudalgeri&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
+</div>
 </p>
 
 ---
@@ -90,7 +152,9 @@ I enjoy writing about tech, learning, and the beginner experience. Here are a fe
   “Coding isn't just a skill, it's a craft — and I'm here to shape it every day.”
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PraveenMudalgeri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile view counter"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=PraveenMudalgeri&label=Profile%20visits&color=blueviolet&style=for-the-badge" alt="Profile visits" />
+  <h3>Woould Love to Connect! 😊</h3>
+</div>
 
