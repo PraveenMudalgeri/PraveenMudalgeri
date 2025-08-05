@@ -86,11 +86,6 @@ I enjoy writing about tech, learning, and the beginner experience. Here are a fe
 
 ---
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=<PraveenMudalgeri>&show_icons=true&theme=github_dark)
-![My Contribution Graph](https://activity-graph.herokuapp.com/graph?username=<PraveenMudalgeri>&theme=github)
-
----
-
 <p align="center" style="font-size: 0.9rem;">
   “Coding isn't just a skill, it's a craft — and I'm here to shape it every day.”
 </p>
