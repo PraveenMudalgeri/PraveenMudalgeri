@@ -1,4 +1,6 @@
 <div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
   
   <h1 align="center" style="font-size: 2.5rem;">👋 Hi there, I'm <span style="color:#4FC3F7;">Praveen Mudalgeri</span></h1>
   <h4 align="center">Web Developer | Python Enthusiast | Tech Blogger</h4>
@@ -186,9 +188,9 @@ I'm a student with a deep interest in technology—especially where it meets des
   <p style="font-size: 0.9rem;">
     “Coding isn't just a skill, it's a craft — and I'm here to shape it every day.”
   </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
   <img src="https://komarev.com/ghpvc/?username=PraveenMudalgeri&label=Profile%20visits&color=blueviolet&style=for-the-badge" alt="Profile visits"/>
   <h3>Would Love to Connect! 😊</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  
 </div>
 
