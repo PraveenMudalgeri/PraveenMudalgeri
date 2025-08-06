@@ -141,9 +141,6 @@ I enjoy writing about tech, learning, and the beginner experience. Here are a fe
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PraveenMudalgeri&show_icons=true&hide_border=true&theme=transparent" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenMudalgeri&hide_border=true&theme=transparent" width="48%" />
-  <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraveenMudalgeri&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
-</div>
 </p>
 
 ---
