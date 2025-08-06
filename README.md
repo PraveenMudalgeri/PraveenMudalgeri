@@ -152,6 +152,6 @@ I enjoy writing about tech, learning, and the beginner experience. Here are a fe
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
   <img src="https://komarev.com/ghpvc/?username=PraveenMudalgeri&label=Profile%20visits&color=blueviolet&style=for-the-badge" alt="Profile visits" />
-  <h3>Woould Love to Connect! 😊</h3>
+  <h3>Would Love to Connect! 😊</h3>
 </div>
 
