@@ -24,7 +24,7 @@
 
 ### 🚀 About Me
 
-I'm a student with a deep interest in technology—especially where it meets design. Currently exploring Machine Learning and working on small ML projects. I enjoy writing content and have a growing interest in building intuitive user interfaces with Framer.
+I'm a student with a deep interest in tech—especially where it meets design. Currently exploring Machine Learning and working on small ML projects. I enjoy writing content and have a growing interest in building intuitive user interfaces with Framer.
 
 ---
 
