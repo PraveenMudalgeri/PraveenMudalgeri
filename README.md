@@ -171,11 +171,7 @@ I'm a student with a deep interest in tech—especially where it meets design. C
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg?palette=github-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="GitHub contribution Snake game" src="dist/github-snake.svg" />
-</picture>
+
 
 <details>
   <summary>😎 See my contributions in 3D</summary>
