@@ -156,13 +156,6 @@ I'm a student with a deep interest in tech—especially where it meets design. C
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveenMudalgeri&show_icons=true&hide_border=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenMudalgeri&hide_border=true&theme=transparent" width="48%" />
-</p>
-
 ### 🔝 Top Contributed Repos
 
 <p align="center">
