@@ -1,185 +1,26 @@
-<div align="center">
+# Praveen Mudalgeri
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
-  
-  <h1 align="center" style="font-size: 2.5rem;">👋 Hi there, I'm <span style="color:#4FC3F7;">Praveen Mudalgeri</span></h1>
-  <h4 align="center">Web Developer | Python Enthusiast | Tech Blogger</h4>
+## Headline
+**Cybersecurity Engineer**
 
-  <a href="https://github.com/PraveenMudalgeri">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6D3AEE&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Frontend+Developer;Tech+Explorer;Designer;Lifelong+Learner;Passionate+Problem+Solver;Always+Building+Something+New!" alt="Typing SVG"/>
-  </a>
+## About Me
+As a Cybersecurity Engineer, I have transitioned from web development to focusing on security. My journey in Data Structures and Algorithms (DSA) has honed my problem-solving skills, enabling me to tackle cybersecurity challenges effectively. I have been involved in several AI projects, including the Loan Guidance Assistant and the Sayan platform, both of which utilize machine learning to enhance security features.
 
-  <br/>
-  <p>
-    <a href="mailto:praveenmudalgeri05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/praveen-m-71816b2a1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://github.com/PraveenMudalgeri"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://instagram.com/just.praveen11"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://twitter.com/mudalspace"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  </p>
-</div>
+I possess a strong understanding of Linux and system-level processes, which complements my knowledge in network security basics. My long-term goals include advancing my expertise in cybersecurity, contributing to innovative security solutions, and continuously learning about emerging threats.
 
+## Tech Stack
+| Technology    | Description                                   |
+|---------------|-----------------------------------------------|
+| Python        | Used for scripting and automating security tasks|
+| JavaScript    | Building secure web applications                |
+| Docker        | Containerization for secure application deployment|
+| Kali Linux    | Security-focused OS for penetration testing    |
+| Nmap          | Network mapping and vulnerability scanning     |
+| Wireshark     | Network protocol analyzer                        |
 
----
+## Projects
+- **Loan Guidance Assistant**: An AI-driven project designed to assist users in understanding loan options with a focus on data security.
+- **Sayan platform**: A secure platform aimed at enabling better decision-making in complex scenarios through AI, with a strong emphasis on securing user data.
 
-### 🚀 About Me
-
-I'm a student with a deep interest in tech—especially where it meets design. Currently exploring Machine Learning and working on small ML projects. I enjoy writing content and have a growing interest in building intuitive user interfaces with Framer.
-
----
-
-## 🔧 🔨 Tech I Work With
-<br>
-
-<div align="center">
-  <h3>🔥 Core Technologies</h3>
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" width="65" height="65" />
-      <br>C
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <h3>🌐 Web Development</h3>
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-             <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS3
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <h3>🗄️ Database & Tools</h3>
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="65" height="65" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Linux" width="65" height="65" />
-      <br>Kuberbetes
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
-## ✍️ My Blogs
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <strong><a href="https://medium.com/@praveenmudalgeri05/my-first-open-source-contribution-9b316b86d1a5">My First Open Source Contribution</a></strong>
-        <br/><em>Sharing my first OSS experience</em>
-      </td>
-      <td>
-        <strong><a href="https://medium.com/@praveenmudalgeri05/beginner-guide-for-contributing-open-source-step-by-step-e217dd77f991">Beginner's Guide to Open Source</a></strong>
-        <br/><em>A step-by-step for first-timers</em>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong><a href="https://medium.com/@praveenmudalgeri05/kick-start-your-coding-projects-why-setting-up-a-personal-development-environment-matters-491271365dae">Dev Environment Matters</a></strong>
-        <br/><em>How your setup impacts growth</em>
-      </td>
-      <td>
-        <strong><a href="https://medium.com/@praveenmudalgeri05/demystifying-computer-core-concepts-what-most-beginners-overlook-02e4eeece766">Demystifying Core Concepts</a></strong>
-        <br/><em>Core fundamentals beginners miss</em>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong><a href="https://medium.com/@praveenmudalgeri05/from-curiosity-to-innovation-my-first-experience-with-sarvam-ai-72842c41120a">First Experience with Sarvam AI</a></strong>
-        <br/><em>How curiosity led to innovation</em>
-      </td>
-      <td>
-        <strong><a href="https://medium.com/@praveenmudalgeri05/unique-rag-project-ideas-for-engineering-students-23916f6b1700">Unique RAG Project Ideas</a></strong>
-        <br/><em>Projects that'll surely highlight in portfolio</em>
-      </td>
-    </tr>
-  </table>
-  <br/>
-  📖 Read more on <a href="https://medium.com/@praveenmudalgeri05"><strong>Medium</strong></a>
-</div>
-
-
----
-
-[![My Contrubutions](https://github-readme-activity-graph.vercel.app/graph?username=PraveenMudalgeri&theme=github-dark-dimmed)](https://github.com/PraveenMudalgeri/github-readme-activity-graph)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg?palette=github-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="GitHub contribution Snake game" src="dist/github-snake.svg" />
-</picture>
-
-<details>
-  <summary>😎 See my contributions in 3D</summary>
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph (green animated)" />
-</details>
-
----
-
-<div align="center">
-  <p style="font-size: 0.9rem;">
-    “Coding isn't just a skill, it's a craft — and I'm here to shape it every day.”
-  </p>
-  <img src="https://komarev.com/ghpvc/?username=PraveenMudalgeri&label=Profile%20visits&color=blueviolet&style=for-the-badge" alt="Profile visits"/>
-  <h3>Would Love to Connect! 😊</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-  
-</div>
-
+## Closing Philosophy
+"In a world where cyber threats are constantly evolving, my mission is to stay one step ahead, ensuring the integrity and security of systems while fostering a culture of relentless learning and improvement."
